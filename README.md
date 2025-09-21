@@ -1,5 +1,5 @@
 # myportfolio
-<div align="center"><img src="https://share.creavite.co/6672f5a80955994b534311d7.gif"></div>
+//<div align="center"><img src="https://share.creavite.co/6672f5a80955994b534311d7.gif"></div>
 
 
 
