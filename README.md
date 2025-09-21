@@ -38,11 +38,12 @@ Aspiring Full-Stack Developer with a knack for building sleek, high-impact web a
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anamika6666\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranjal2870&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anamika6666&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6666&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6666&layout=compact&theme=radical&langs_count=4)
+
 
 
 ## 🏆 GitHub Trophies
