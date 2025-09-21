@@ -42,7 +42,8 @@ Aspiring Full-Stack Developer with a knack for building sleek, high-impact web a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6666layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6666&layout=compact&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anamika6666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
