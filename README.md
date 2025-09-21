@@ -33,14 +33,16 @@ Aspiring Full-Stack Developer with a knack for building sleek, high-impact web a
 
 
 ## 🌐 Other Profiles:
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/pranjalsrivastava-5300/transcript/d4rx9h22y45zqzy)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/PranjalS_010)
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/b668edb3-1a34-4c37-a569-4bc5cff6ad7b)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/anamikakumari-2706/credentials/3919e1f3364e5d03?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Anamikakumari_123/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anamika6666\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranjal2870&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6666layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anamika6666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
